@@ -14,3 +14,13 @@ export default function Home() {
     </div>
   )
 }
+
+
+h) HelpDeskStaff (extends Staff super class)
+•	HelpDeskStaff ( ) - This function is the constructor method for the class and is run every time an object of this class is created.
+
+i) GymReceptionistStaff (extends Staff super class)
+ j) InstructorStaff (extends Staff super class)
+
+
+
