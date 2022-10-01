@@ -9,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className='text-3xl font-bold'>Next tailwind Amazona</h1>
+      <h1 className='text-3xl font-bold'>new begining</h1>
      
     </div>
   )
